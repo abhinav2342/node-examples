@@ -4,8 +4,8 @@ This is a file to demostrate the usage of express generator that is a tool that 
 
 - Install express generator 
 -- Type the following command in terminal.
+
 ```
-npm
 npm install express-generator -g
 ```
 
