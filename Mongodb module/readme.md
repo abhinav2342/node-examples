@@ -31,3 +31,5 @@
 
 ###### *The module uses callbacks and nested callbacks, therefore basic knowledge of the same is need.*
 ###### *index1.js is an example of how to do the operations directly without call-backs or seperate module.*
+
+###### Same code using promises will be updated to avoid the callback pyramid.
