@@ -8,7 +8,7 @@
 
 
 ### To run the program follow the following steps:
-- Mongodb , monog client and assert has been used in the module.
+- Mongodb , mongo client and assert (these two are node modules) has been used in the module.
 [x] Ensure that mongoDB is installed.
 
 [ ] Install mongo client for node.js (type the following in terminal)
